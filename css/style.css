@@ -1,0 +1,10 @@
+.meup-25{
+    padding: 10px 25px
+
+}
+header{
+    /* ../ mostra todas as pastas anteriores */
+    background-image: url("../img/fundo\ banner.jpg");
+    /* o cover vai se ajustar no melhor tamanho 100% */
+    background-size: cover;
+}
